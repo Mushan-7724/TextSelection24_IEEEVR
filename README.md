@@ -3,15 +3,18 @@ This project is my Master's project and is supervised by Hai-Ning Liang, support
 This project was published as a paper of the IEEE VR 2024 Conference.[Exploring Controller-based Techniques for Precise and Rapid Text Selection in Virtual Reality](https://ieeexplore.ieee.org/document/10494188). 
 
 In this paper, we proposed three controller-based text selection methods: Joystick Movement, Depth Movement, and Wrist Orientation.  
-<p align="center">
+<div align="center">
 <img src="assets/Techniques Design.png" alt="Techniques Design" width="400">
-</p>
+</div>
 
-Here is also a brief demo video for our project.
+Here is also a brief demo video for our project. You can find them in the below linke or assests folder. 
+(https://mushan-7724.github.io/TextSelection24_IEEEVR/assets/TextSelection_ReleasedVersion~1.mp4)
+<!--
 <video width="600" controls>
-    <source src="assets/TextSelection_ReleasedVersion~1.mp4" type="video/mp4">
-    您的浏览器不支持 HTML5 视频。
+    <source src="https://mushan-7724.github.io/TextSelection24_IEEEVR/assets/TextSelection_ReleasedVersion~1.mp4" type="video/mp4">
 </video>
+
+
 
 <!--
 [Online paper reading, please tap the picture below]  
