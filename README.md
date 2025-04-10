@@ -7,11 +7,11 @@ In this paper, we proposed three controller-based text selection methods: Joysti
 <img src="assets/Techniques Design.png" alt="Techniques Design" width="400">
 </div>
 
-Here is also a brief demo video for our project. You can find them in the below linke or assests folder. 
-(https://mushan-7724.github.io/TextSelection24_IEEEVR/assets/TextSelection_ReleasedVersion~1.mp4)
-<!--
+Here is also a brief demo video for our project. You can find them in the link below or the assests folder. 
+(https://mushan-7724.github.io/TextSelection24_IEEEVR/assets/TextSelection_ReleasedVersion~4.mp4)
+
 <video width="600" controls>
-    <source src="https://mushan-7724.github.io/TextSelection24_IEEEVR/assets/TextSelection_ReleasedVersion~1.mp4" type="video/mp4">
+    <source src="https://mushan-7724.github.io/TextSelection24_IEEEVR/assets/TextSelection_ReleasedVersion~4.mp4" type="video/mp4">
 </video>
 
 
